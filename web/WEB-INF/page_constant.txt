@@ -1,0 +1,16 @@
+=LoadCarServlet
+loadcar=LoadCarServlet
+login_page=login.jsp
+index_page=index.jsp
+error=error.jsp
+user_verify=UserVerifyServlet
+verify_code=VerifyCodeServlet
+verify_page=verify.jsp
+logout=LogoutServlet
+filter=FilterServlet
+login=DoLoginServlet
+signup_page=signup.jsp
+addToCart=AddToCartServlet
+your_cart=cart.jsp
+delete_car_in_cart=DeleteCarServlet
+check_out=CheckOutServlet
